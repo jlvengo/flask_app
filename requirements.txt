@@ -9,8 +9,6 @@ ipython==4.2.0
 itsdangerous==0.24
 Jinja2==2.8
 MarkupSafe==0.23
-numba==0.26.0
-numexpr==2.6.0
 oauth2==1.9.0.post1
 odo==0.5.0
 python-dotenv==0.6.2
